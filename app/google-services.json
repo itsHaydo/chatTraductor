@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079962994692",
+    "project_id": "linguaconnect-99326",
+    "storage_bucket": "linguaconnect-99326.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079962994692:android:8c64c560529b1f75314d51",
+        "android_client_info": {
+          "package_name": "com.example.translate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZrdoZxvJJrceYrTQrI7aDY5_heumlZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
